@@ -1,1 +1,1 @@
-[Test](https://ivadimko.github.io/average-ages)
+[Test](https://ivadimko.github.io/average-ages/index.html)
